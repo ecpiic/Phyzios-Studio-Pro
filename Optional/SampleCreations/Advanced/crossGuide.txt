@@ -1,0 +1,36 @@
+How-To:
+
+This device provides a visual reference point, typically for precisely aligning particles. 
+
+-The central cross can be used to align two particles on precisely the same spot, among other things. 
+-The 90 degree cross for example can precisely pinpoint where to place a new particle in a grid, 
+  well away from others by lining up with reference particles. 
+-With practice it can be used to find the center of a circle to make an axle.
+
+Usage:
+-The structure is Wall+Rigid so grabbing one particle with the Select tool will grab the whole structure
+-Aligning things is never a perfect process, but the higher the Zoom level the closer particles can be placed. 
+  All edits that need precision should be done at maximum Particle Size in the Property window which is 64. 
+  The central Handle particle is for moving the guide at high zoom levels
+
+-The guide has two modes: temporary and permanent
+-Temporary:
+  With the game paused, selecting the particles will allow you to use it as long as the game is pausod. 
+  When the game is unpaused it will return to it's original position. This is useful for saving a reference point. 
+-Permanent:
+  With the game paused, reposition the guide. Use the Spuit tool to select it's material. 
+  Use the Replace tool on it to permanently reposition the guide. It will remain there when the game is unpaused.
+
+-Angle:
+-The angle of the guide can be set by giving the structure a module 
+-First open the Browser window with Ctrl+7 or Window -> Browser
+  Use the Select tool to highlight one of the guide particles. This will automatically highlight it in the Browser.
+  Create a module for it. The Angle value is set in radians
+  r  = 3.141592654
+  r/2= 90deg
+  1r = 180deg
+ -r/2= 270deg/-90deg
+  2r = 360deg
+
+  Angles in degress can be set with this formula:
+  3.141592654*(deg/180)
