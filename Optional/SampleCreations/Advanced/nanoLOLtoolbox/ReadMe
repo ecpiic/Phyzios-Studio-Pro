@@ -1,0 +1,25 @@
+~~~~~~~~~~~What is the nanoLOLtoolbox?~~~~~~~~~~
+
+This is a collection of files that contain original 
+designs for mechanical logic gates in Phyzios. 
+
+They have been built on the principles of nanomachines,
+creations built using the absolute fewest number of 
+particles possible. This keeps FPS as high as possible
+while producing extremely compact results.
+
+Link-Only-Logic (LOL) has several attractive benefits
+for the construction of mechanical calculators in
+Phyzios. By using only the most primitive and simple
+interactions, we can produce the fastest, lightest, 
+and least computationally complex machines possible,
+contributing to high FPS performance. By using only
+Rigid and Links, all of the other elements are free
+to be configured in various other ways. In addition, 
+Links permit the geometry of components to overlap
+allowing more compact designs. As Links always have 
+constant behavior, there is little to no concern that 
+these devices will function differently over a wide 
+variety of Parameter configurations, allowing the 
+integration of mechanical logic into a wide array of
+experiments. 
