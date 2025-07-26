@@ -1,0 +1,2 @@
+left + right control left block
+up + down control right block
