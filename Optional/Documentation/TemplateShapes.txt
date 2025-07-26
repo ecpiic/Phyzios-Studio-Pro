@@ -1,0 +1,10 @@
+TextureShape = 64
+HeartShape = 104
+StarShape = 115
+SquareShape = 113
+TriangleShape = 116
+OvalShape = 111
+CircleShape = 99
+RectangleShape = 114
+LineShape = 108
+NoShape = 0
